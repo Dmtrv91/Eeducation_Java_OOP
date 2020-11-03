@@ -1,4 +1,6 @@
-package Test.Car;
+package car;
+
+import interfaces.Car;
 
 public class CarImpl implements Car {
 

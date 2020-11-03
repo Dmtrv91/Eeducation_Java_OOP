@@ -1,6 +1,8 @@
-package Test.Car;
+package car;
 
-public class Audi extends CarImpl implements Rentable{
+import interfaces.Rentable;
+
+public class Audi extends CarImpl implements Rentable {
     private Integer minRentDay;
     private Double pricePerDay;
 

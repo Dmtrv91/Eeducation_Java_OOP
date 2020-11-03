@@ -1,6 +1,8 @@
-package Test.Person;
+package person;
 
-public class Chinese implements Person{
+import interfaces.Person;
+
+public class Chinese implements Person {
 
     private String name;
 

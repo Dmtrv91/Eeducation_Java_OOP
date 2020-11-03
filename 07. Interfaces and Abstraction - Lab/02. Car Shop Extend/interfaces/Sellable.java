@@ -1,4 +1,4 @@
-package Test.Car;
+package interfaces;
 
 public interface Sellable {
 

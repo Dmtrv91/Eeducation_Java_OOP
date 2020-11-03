@@ -1,4 +1,4 @@
-package Test.Car;
+package interfaces;
 
 import java.io.Serializable;
 

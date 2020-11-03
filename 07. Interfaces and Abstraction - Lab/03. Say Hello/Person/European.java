@@ -1,6 +1,8 @@
-package Test.Person;
+package person;
 
-public class European implements Person{
+import interfaces.Person;
+
+public class European implements Person {
     private String name;
 
     public European(String name) {

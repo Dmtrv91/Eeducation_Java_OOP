@@ -1,6 +1,9 @@
-package Test;
 
-import Test.Person.*;
+import interfaces.Person;
+import person.Bulgarian;
+import person.Chinese;
+import person.European;
+
 import java.util.ArrayList;
 import java.util.List;
 

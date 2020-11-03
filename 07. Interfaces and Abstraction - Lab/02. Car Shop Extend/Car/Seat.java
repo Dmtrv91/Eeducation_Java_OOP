@@ -1,6 +1,8 @@
-package Test.Car;
+package car;
 
-public class Seat extends CarImpl implements Sellable{
+import interfaces.Sellable;
+
+public class Seat extends CarImpl implements Sellable {
 
     private Double price;
 

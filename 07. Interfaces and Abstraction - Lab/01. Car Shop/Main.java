@@ -1,8 +1,6 @@
-package Test;
 
-
-import Test.Car.Car;
-import Test.Car.Seat;
+import interfaces.Car;
+import car.Seat;
 
 public class Main {
     public static void main(String[] args) {
